@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+.DS_Store
+fire_alerts.db
+captured_events/
+*.mp3
