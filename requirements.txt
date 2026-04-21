@@ -1,0 +1,13 @@
+ultralytics
+fastapi
+uvicorn[standard]
+opencv-python
+gtts
+pygame
+twilio
+python-dotenv
+sqlalchemy
+jinja2
+python-multipart
+numpy
+huggingface_hub
